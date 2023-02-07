@@ -1,0 +1,11 @@
+package com.dev.markcode.negocio;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+
+public class TipoProductoFacade extends AbstractFacade<TipoProductoFacade> {
+	
+	@ PersistenceContext(unitname = "sisfac-ejb")
+	private EntityManager entityManager;
+
+}

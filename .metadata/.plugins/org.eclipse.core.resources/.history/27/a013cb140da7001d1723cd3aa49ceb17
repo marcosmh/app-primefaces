@@ -1,0 +1,16 @@
+package com.dev.markcode.negocio;
+
+public abstract class AbstractFacade<T> {
+	
+	
+
+	private Class<T> classEntity;
+	
+	public AbstractFacade(Class<T> classEntity) {
+		this.classEntity = classEntity;
+
+	}
+	
+	
+
+}

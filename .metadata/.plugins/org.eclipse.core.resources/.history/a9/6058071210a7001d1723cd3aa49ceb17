@@ -1,0 +1,5 @@
+package com.dev.markcode.negocio;
+
+public class TipoProductoFacade {
+
+}

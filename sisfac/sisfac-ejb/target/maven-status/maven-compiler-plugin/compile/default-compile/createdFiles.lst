@@ -1,1 +1,5 @@
-com/dev/markcode/NewSessionBean.class
+com/dev/markcode/entidad/Factura.class
+com/dev/markcode/entidad/Producto.class
+com/dev/markcode/entidad/DetalleFactura.class
+com/dev/markcode/entidad/TipoProducto.class
+com/dev/markcode/entidad/Cliente.class

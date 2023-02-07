@@ -1,1 +1,5 @@
-/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/NewSessionBean.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/Producto.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/Cliente.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/Factura.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/TipoProducto.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/DetalleFactura.java
