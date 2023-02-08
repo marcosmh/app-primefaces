@@ -8,4 +8,7 @@
     <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
     <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
     <fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+    <fullyQualifiedTypeName name="javax.annotation.ManagedBean"/>
+    <fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+    <fullyQualifiedTypeName name="javax.faces.view.ViewScoped"/>
 </qualifiedTypeNameHistroy>

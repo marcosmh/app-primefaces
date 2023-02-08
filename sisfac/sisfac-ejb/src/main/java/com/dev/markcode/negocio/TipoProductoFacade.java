@@ -7,7 +7,7 @@ import javax.persistence.PersistenceContext;
 @Stateless
 public class TipoProductoFacade extends AbstractFacade<TipoProductoFacade> {
 	
-	@ PersistenceContext(unitName = "sisfac-ejb")
+	@ PersistenceContext(unitName = "sisfacPU")
 	private EntityManager entityManager;
 	
 	public TipoProductoFacade() {

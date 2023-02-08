@@ -3,3 +3,5 @@
 /Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/Factura.java
 /Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/TipoProducto.java
 /Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/entidad/DetalleFactura.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/negocio/AbstractFacade.java
+/Users/marcosmh/DevTraining/app-primefaces/sisfac/sisfac-ejb/src/main/java/com/dev/markcode/negocio/TipoProductoFacade.java

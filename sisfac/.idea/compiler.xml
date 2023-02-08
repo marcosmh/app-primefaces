@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sisfac-ear" />
+        <module name="sisfac-ejb" />
+        <module name="sisfac-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sisfac-ejb" options="-endorseddirs $PROJECT_DIR$/sisfac-ejb/target/endorsed" />
+      <module name="sisfac-web" options="-endorseddirs $PROJECT_DIR$/sisfac-web/target/endorsed" />
+    </option>
+  </component>
+</project>

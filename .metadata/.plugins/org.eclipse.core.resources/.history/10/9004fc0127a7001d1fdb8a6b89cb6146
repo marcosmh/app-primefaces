@@ -1,0 +1,5 @@
+package com.dev.markcode.seguridad.beans;
+
+public class LoginBean {
+
+}
